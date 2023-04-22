@@ -1,0 +1,24 @@
+
+.menu__footer-list{
+flex-basis: calc((100%-90px)/3);
+}
+
+.menu__footer-item{
+display: flex;
+align-items: center;
+}
+
+.seccion__title{
+display: flex;
+align-items: center;
+}
+
+.menu__footer-pagraph{
+    width: 250px;
+height: 50px;
+font-weight: 500;
+font-size: 16px;
+line-height: 183%;
+letter-spacing: 0.04em;
+color: #907E82;
+}
